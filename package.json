@@ -1,0 +1,22 @@
+{
+  "name": "uas",
+  "version": "1.0.0",
+  "description": "web uas",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alvinsujono/UASWEB.git"
+  },
+  "keywords": [
+    "react.js"
+  ],
+  "author": "alvin sujono",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alvinsujono/UASWEB/issues"
+  },
+  "homepage": "https://github.com/alvinsujono/UASWEB#readme"
+}
